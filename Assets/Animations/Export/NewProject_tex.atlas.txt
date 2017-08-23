@@ -1,0 +1,83 @@
+
+NewProject_tex.png
+size: 0,0
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 1 ,1
+  size: 772 ,765
+  orig: 772 ,765
+  offset: 0,0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 1 ,768
+  size: 317 ,696
+  orig: 317 ,696
+  offset: 0,0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 775 ,545
+  size: 371 ,752
+  orig: 371 ,752
+  offset: 0,0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 1005 ,1299
+  size: 231 ,459
+  orig: 231 ,459
+  offset: 0,0
+  index: -1
+Body
+  rotate: false
+  xy: 320 ,768
+  size: 311 ,593
+  orig: 311 ,593
+  offset: 0,0
+  index: -1
+Belt
+  rotate: false
+  xy: 328 ,1363
+  size: 195 ,604
+  orig: 195 ,604
+  offset: 0,0
+  index: -1
+Shirt
+  rotate: false
+  xy: 525 ,1705
+  size: 354 ,260
+  orig: 354 ,260
+  offset: 0,0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 1 ,1466
+  size: 325 ,384
+  orig: 325 ,384
+  offset: 0,0
+  index: -1
+Shoulder
+  rotate: false
+  xy: 633 ,1299
+  size: 370 ,404
+  orig: 370 ,404
+  offset: 0,0
+  index: -1
+Dust2
+  rotate: false
+  xy: 1406 ,1
+  size: 629 ,542
+  orig: 629 ,542
+  offset: 0,0
+  index: -1
+Dust
+  rotate: false
+  xy: 775 ,1
+  size: 629 ,542
+  orig: 629 ,542
+  offset: 0,0
+  index: -1
